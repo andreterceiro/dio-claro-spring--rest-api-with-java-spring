@@ -20,3 +20,5 @@ The starter of Spring REST API comes with a Tomcat listening on the port `8080`.
 Teacher used a initializer of [this link](http://start.spring.io) with this configuration:
 
 ![Initializer used](images/initializr-used.png)
+
+I generated a similar (Spring Initializr website changed a little) project. Please see the file `my-first-web-api.zip`and the directory `my-first-web-api-project-generated-with-initializr`, that is this zip file unpacked.
