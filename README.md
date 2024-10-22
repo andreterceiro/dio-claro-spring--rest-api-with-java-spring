@@ -22,3 +22,8 @@ Teacher used a initializer of [this link](http://start.spring.io) with this conf
 ![Initializer used](images/initializr-used.png)
 
 I generated a similar (Spring Initializr website changed a little) project. Please see the file `my-first-web-api.zip`and the directory `my-first-web-api-project-generated-with-initializr`, that is this zip file unpacked.
+
+
+## Running the basic project
+
+Run he basic project was not so easy.Then I generated [a video](https://youtu.be/jAd0SjAaUgQ) about this question.
