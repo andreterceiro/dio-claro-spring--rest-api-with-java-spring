@@ -16,3 +16,7 @@ Teacher also talked about `HATEOAS`:
 ![hateoas](images/hateoas.png)
 
 The starter of Spring REST API comes with a Tomcat listening on the port `8080`.
+
+Teacher used a initializer of [this link](http://start.spring.io) with this configuration:
+
+![Initializer used](images/initializr-used.png)
