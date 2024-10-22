@@ -36,3 +36,5 @@ mvn spring-boot:run
 ```
 
 A comment: its necesary to wait only a few seconds. The terminal will not print new messages. You will can access the application in the address `http://127.0.0.1:8081`.
+
+Another comment: I tried to stop the application and run again and it works!
