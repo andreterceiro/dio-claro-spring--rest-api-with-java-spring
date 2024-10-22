@@ -14,3 +14,5 @@ Teacher presented us `Glory of REST`, with some levels:
 Teacher also talked about `HATEOAS`:
 
 ![hateoas](images/hateoas.png)
+
+The starter of Spring REST API comes with a Tomcat listening on the port `8080`.
