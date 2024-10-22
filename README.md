@@ -27,3 +27,12 @@ I generated a similar (Spring Initializr website changed a little) project. Plea
 ## Running the basic project
 
 Run he basic project was not so easy.Then I generated [a video](https://youtu.be/jAd0SjAaUgQ) about this question.
+
+The command to run the Spring application in terminal is (in the root directory of this repository):
+
+```
+cd my-first-web-api-project-generated-with-initializr/
+mvn spring-boot:run
+```
+
+A comment: its necesary to wait only a few seconds. The terminal will not print new messages. You will can access the application in the address `http://127.0.0.1:8081`.
