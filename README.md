@@ -56,3 +56,7 @@ Summary of the annotations:
 - **@GetMapping, @PostMapping...**: related to some HTTP verbs;
 - **@RequestBody**: related to a JSON body converted to a specific object;
 - **@PathVariable**: related to a value of a variable receive through the URL of the request.
+
+I made [this video](https://youtu.be/zP5PCH5asPQ) to explain the REST API that we created.
+
+This is [the class](https://web.dio.me/course/criando-uma-api-rest-documentada-com-spring-web-e-swagger/learning/ce0b0876-dae5-49b8-986d-d1bc9781d96c?back=/track/coding-the-future-claro-java-spring-boot&tab=undefined&moduleId=undefined) that we showed us this content.
