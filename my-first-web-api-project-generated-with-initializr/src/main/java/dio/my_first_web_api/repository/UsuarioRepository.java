@@ -39,7 +39,7 @@ public class UsuarioRepository {
         return usuarios;
     }
 
-    public Usuario findByUsername(Integer id) {
+    public Usuario findByUsername(String name) {
         System.out.println("Finding an user by his username");
         return new Usuario("gleysson", "password");
     }
