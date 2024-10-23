@@ -8,7 +8,7 @@ import org.springframework.stereotype.Repository;
 import dio.my_first_web_api.model.Usuario;
 
 @Repository
-public class UserRepository {
+public class UsuarioRepository {
     public void save(Usuario usuario) {
         if (usuario.getId() == null) {
             System.out.println("saving a new user");
