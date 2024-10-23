@@ -44,6 +44,15 @@ Another comment: I tried to stop the application and run again and it works!
 
 I made [this video](https://youtu.be/HM3XCLFhtEg) about the creation of a REST controller and a GET route.
 
-Some useful annotations:
+Some useful annotations related to a REST controller:
 
 ![some annotations](images/some-annotations.png)
+
+
+Summary of the annotations:
+
+- **@RestController**: annottion that defines that the controller is a REST controller;
+- **@RequestMapping(prefix)**: as the methods that will receive REST requests will have this prefix;
+- **@GetMapping, @PostMapping...**: related to some HTTP verbs;
+- **@RequestBody**: related to a JSON body converted to a specific object;
+- **@PathVariable**: related to a value of a variable receive through the URL of the request.
