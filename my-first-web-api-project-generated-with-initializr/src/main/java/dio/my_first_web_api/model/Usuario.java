@@ -2,11 +2,11 @@ package dio.my_first_web_api.model;
 
 public class Usuario {
     private Integer id;
-    private String nome;
+    private String login;
     private String password;
 
-    public Usuario(String nome, String password) {
-        this.nome = nome;
+    public Usuario(String login, String password) {
+        this.login = login;
         this.password = password;
     }
 
@@ -18,12 +18,12 @@ public class Usuario {
         this.id = id;
     }
 
-    public String getNome() {
-        return this.nome;
+    public String getLogin() {
+        return this.login;
     }
 
-    public void setNome(String nome) {
-        this.nome = nome;
+    public void setLogin(String login) {
+        this.login = login;
     }
 
     public String getPassword() {
@@ -38,7 +38,7 @@ public class Usuario {
     public String toString() {
         return "{" +
             " id='" + getId() + "'" +
-            ", nome='" + getNome() + "'" +
+            ", login='" + getLogin() + "'" +
             ", password='" + getPassword() + "'" +
             "}";
     }
