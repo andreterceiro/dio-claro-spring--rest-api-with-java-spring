@@ -5,6 +5,11 @@ public class Usuario {
     private String nome;
     private String password;
 
+    public Usuario(String nome, String password) {
+        this.nome = nome;
+        this.password = password;
+    }
+
     public Integer getId() {
         return this.id;
     }
