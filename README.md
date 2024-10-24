@@ -90,4 +90,6 @@ If you want more detailed information, like how to personalize a contact informa
 
 In the test of the creation of an user (please see the next image), teacher showed us how to personalize the parameters in the body of the request (through the big `textarea` in the image):
 
-![personalizing request body](images/personalizing-request-body.png)
+![personalizing request body](images/personalizing-request-body.png).
+
+One comment: you can verify in the console in where in make the Spring application avaliable the request data received if you do a `System.out.println("information);`.
