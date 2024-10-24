@@ -87,3 +87,7 @@ To Swagger does not import with our business rules, model classes as example. It
 ![Classes to be analyzed by Swagger](images/swagger-classes-analyzed.png)
 
 If you want more detailed information, like how to personalize a contact information, please watch [the class](https://web.dio.me/course/criando-uma-api-rest-documentada-com-spring-web-e-swagger/learning/731af7fe-4f2e-4d66-86db-5af62b9a8d57?back=/track/coding-the-future-claro-java-spring-boot&tab=undefined&moduleId=undefined).
+
+In the test of the creation of an user (please see the next image), teacher showed us how to personalize the parameters in the body of the request (through the big `textarea` in the image):
+
+![personalizing request body](images/personalizing-request-body.png)
