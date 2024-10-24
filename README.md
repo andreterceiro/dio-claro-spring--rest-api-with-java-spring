@@ -71,3 +71,9 @@ I made [this video](https://youtu.be/UlXf0bZ4QKY) about the process of adding a 
 In several tutorials in Internet it used "`Docket`". Who is Docket? Well, the tutorial aren't very clear about this question, but teacher showed us the import of Docket:
 
 ![Docket](images/docket.png)
+
+Some tutorials in Internet about adding a Swagger in a Spring application:
+
+- [https://www.dio.me/articles/como-habilitar-o-swagger](https://www.dio.me/articles/como-habilitar-o-swagger);
+- [https://www.treinaweb.com.br/blog/documentando-uma-api-spring-boot-com-o-swagger#google_vignette](https://www.treinaweb.com.br/blog/documentando-uma-api-spring-boot-com-o-swagger#google_vignette);
+- [https://www.dio.me/articles/implementacao-basica-do-swagger-em-api-spring-boot](https://www.dio.me/articles/implementacao-basica-do-swagger-em-api-spring-boot).
