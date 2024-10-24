@@ -65,3 +65,5 @@ This is [the class](https://web.dio.me/course/criando-uma-api-rest-documentada-c
 ## Swagger
 
 I made [this video](https://youtu.be/UlXf0bZ4QKY) about the process of adding a Swagger configuration in the project.
+
+[This StackOverflow answer](https://stackoverflow.com/a/77964227) provides me the dependency to include in `pom.xml` to avoid the problem of the modal in Swagger arguin me about the base URL. So we have 3 new dependencies in `pom.xml`. Two related to Swagger Fox and and another for this question.
