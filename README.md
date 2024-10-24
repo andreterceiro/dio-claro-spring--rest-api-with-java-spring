@@ -77,3 +77,5 @@ Some tutorials in Internet about adding a Swagger in a Spring application:
 - [https://www.dio.me/articles/como-habilitar-o-swagger](https://www.dio.me/articles/como-habilitar-o-swagger);
 - [https://www.treinaweb.com.br/blog/documentando-uma-api-spring-boot-com-o-swagger#google_vignette](https://www.treinaweb.com.br/blog/documentando-uma-api-spring-boot-com-o-swagger#google_vignette);
 - [https://www.dio.me/articles/implementacao-basica-do-swagger-em-api-spring-boot](https://www.dio.me/articles/implementacao-basica-do-swagger-em-api-spring-boot).
+
+[This](http://127.0.0.1:8081/swagger-ui/index.html) is the Swagger URL (or /swagger-ui.html).
