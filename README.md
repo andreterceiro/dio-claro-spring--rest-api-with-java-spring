@@ -92,7 +92,7 @@ In the test of the creation of an user (please see the next image), teacher show
 
 ![personalizing request body](images/personalizing-request-body.png).
 
-One comment: you can verify in the console in where in make the Spring application avaliable the request data received if you do a `System.out.println("information);`.
+One comment: you can verify in the console in where in make the Spring application avaliable the request data received if you do a `System.out.println(information);`.
 
 I inserted some methods with the necessary annotations to interact with some other HTTP verbs and do all the CRUD "tasks". The final controller class was:
 
