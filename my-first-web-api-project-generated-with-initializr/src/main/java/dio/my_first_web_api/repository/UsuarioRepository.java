@@ -5,6 +5,7 @@ import java.util.List;
 
 import org.springframework.stereotype.Repository;
 
+import dio.my_first_web_api.handler.BusinessException;
 import dio.my_first_web_api.model.Usuario;
 
 @Repository
