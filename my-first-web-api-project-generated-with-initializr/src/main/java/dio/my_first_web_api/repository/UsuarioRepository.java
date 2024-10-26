@@ -20,8 +20,9 @@ public class UsuarioRepository {
     }
 
     public void deleteById(Integer id) {
-        System.out.println("Deleting an user");
-        System.out.println(id);
+        throw new BusinessException("teste vídeo");
+        // System.out.println("Deleting an user");
+        // System.out.println(id);
     }
 
     public Usuario findById(Integer id) {
