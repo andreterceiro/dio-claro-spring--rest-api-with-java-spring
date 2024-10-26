@@ -148,3 +148,5 @@ public class UsuarioController {
     }
 }
 ```
+
+I made [this video](https://youtu.be/xIFJCaW4Tc8) about using `exceptions` in a Spring application.
